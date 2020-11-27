@@ -1,4 +1,4 @@
-# 😷️ COVID-19 Azambuja 
+# 😷️ COVID-19 Azambuja :microbe:
 Dados epidemiológicos disponibilizados diariamente pela Protecção Civil de Azambuja
 
 
