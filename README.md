@@ -1,5 +1,5 @@
 # 😷️ COVID-19 Azambuja :microbe:
-Dados epidemiológicos disponibilizados diariamente pela Protecção Civil de Azambuja
+Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde Pública - ACES Estuário do Tejo
 
 
 📅️ Última actualização: 3 de Dezembro de 2020
@@ -10,11 +10,18 @@ da Protecção Civil de Azambuja e/ou Autoridade de Saúde Pública - ACES Estu�
 
 Os dados são publicados todos os dias na página da internet da Câmara Municipal de Azambuja: https://www.cm-azambuja.pt/informacoes/noticias/item/3886-informacao-covid-19
 
-# :memo: Dados totais do Concelho de Azambuja
+# :memo: Concelho de Azambuja
 
-Na tabela de dados relativos ao Concelho de Azambuja, a coluna dos <b>Confirmados</b> é igual à coluna dos <b>Casos Activos</b>, pois quando os dados começaram a ser disponibilizados a Protecção Civil de Azambuja usava esta nomenclatura. Hoje em dia nos reportes diários já aparece <b>Casos Activos</b>.
-
-Mantive a nomenclatura por uma questão de coerência tal como eles estavam a ser apresentados à população.
+<b>Dados dos Censos de 2011</b>
+População residente no Concelho de Azambuja: 21 814 habtitantes
+População residente nas Freguesias que constituem o Concelho de Azambuja
+        Vila Nova da Rainha: 926 habitantes
+        Azambuja: 8 190 habitantes
+        Aveiras de Baixo: 1 317 habitantes
+        Aveiras de Cima: 4 762 habitantes
+        Vale do Paraíso: 880 habitantes
+        Alcoentre: 3 348 habitantes
+        União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 291 habitantes 
 
 # :memo: Dados por Freguesias
 
@@ -22,5 +29,13 @@ No ficheiro, existe uma coluna designada por <b>ND</b> - Não divulgado.
 Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos casos activos é que não estão presentes no mapa, por aplicação do critério de não identificação de locais com menos de 3 casos, tal como a DGS indica.
 
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
+
+
+
+#  :chart_with_upwards_trend: Representações gráficas
+
+Concelho de Azambuja: https://public.flourish.studio/visualisation/4223017/
+Freguesias do Concelho de Azambuja (dados totais): https://public.flourish.studio/visualisation/4266070/
+Freguesias do Concelho de Azambuja (dados em percentagem da população): https://public.flourish.studio/visualisation/4266115/
 
 
