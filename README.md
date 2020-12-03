@@ -41,6 +41,6 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 <li>Concelho de Azambuja: https://public.flourish.studio/visualisation/4223017/ </li>
 <li>Freguesias do Concelho de Azambuja (dados totais): https://public.flourish.studio/visualisation/4266070/ </li>
 <li>Freguesias do Concelho de Azambuja (dados em percentagem da população): https://public.flourish.studio/visualisation/4266115/ </li>
-<li>RStudio: https://rpubs.com/nephrops</li>
+<li>RPubs: https://rpubs.com/nephrops</li>
 </ul>
 
