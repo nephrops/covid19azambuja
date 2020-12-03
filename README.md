@@ -13,6 +13,7 @@ Os dados são publicados todos os dias na página da internet da Câmara Municip
 # :memo: Concelho de Azambuja
 
 <b>Dados dos Censos de 2011</b>
+
 População residente no Concelho de Azambuja: 21 814 habtitantes
 População residente nas Freguesias que constituem o Concelho de Azambuja
         Vila Nova da Rainha: 926 habitantes
