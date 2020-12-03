@@ -15,14 +15,17 @@ Os dados são publicados todos os dias na página da internet da Câmara Municip
 <b>Dados dos Censos de 2011</b>
 
 População residente no Concelho de Azambuja: 21 814 habtitantes
+
 População residente nas Freguesias que constituem o Concelho de Azambuja
-        Vila Nova da Rainha: 926 habitantes
-        Azambuja: 8 190 habitantes
-        Aveiras de Baixo: 1 317 habitantes
-        Aveiras de Cima: 4 762 habitantes
-        Vale do Paraíso: 880 habitantes
-        Alcoentre: 3 348 habitantes
-        União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 291 habitantes 
+<ul>
+        <li>Vila Nova da Rainha: 926 habitantes</li>
+        <li>Azambuja: 8 190 habitantes</li>
+        <li>Aveiras de Baixo: 1 317 habitantes</li>
+        <li>Aveiras de Cima: 4 762 habitantes</li>
+        <li>Vale do Paraíso: 880 habitantes</li>
+        <li>Alcoentre: 3 348 habitantes</li>
+        <li>União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 291 habitantes </li>
+</ul>
 
 # :memo: Dados por Freguesias
 
@@ -34,9 +37,9 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 
 
 #  :chart_with_upwards_trend: Representações gráficas
-
-Concelho de Azambuja: https://public.flourish.studio/visualisation/4223017/
-Freguesias do Concelho de Azambuja (dados totais): https://public.flourish.studio/visualisation/4266070/
-Freguesias do Concelho de Azambuja (dados em percentagem da população): https://public.flourish.studio/visualisation/4266115/
-
+<ul>
+<li>Concelho de Azambuja: https://public.flourish.studio/visualisation/4223017/ </li>
+<li>Freguesias do Concelho de Azambuja (dados totais): https://public.flourish.studio/visualisation/4266070/ </li>
+<li>Freguesias do Concelho de Azambuja (dados em percentagem da população): https://public.flourish.studio/visualisation/4266115/ </li>
+</ul>
 
