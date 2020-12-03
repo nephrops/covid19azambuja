@@ -2,7 +2,7 @@
 Dados epidemiológicos disponibilizados diariamente pela Protecção Civil de Azambuja
 
 
-📅️ Última actualização: 2 de Dezembro de 2020
+📅️ Última actualização: 3 de Dezembro de 2020
 
 
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
