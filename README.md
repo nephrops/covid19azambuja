@@ -10,7 +10,7 @@ da Protecção Civil de Azambuja e/ou Autoridade de Saúde Pública - ACES Estu�
 
 Os dados são publicados todos os dias na página da internet da Câmara Municipal de Azambuja: https://www.cm-azambuja.pt/informacoes/noticias/item/3886-informacao-covid-19
 
-# :memo: Concelho de Azambuja
+# 📝 Concelho de Azambuja
 
 <b>Dados dos Censos de 2011</b>
 
@@ -27,14 +27,15 @@ População residente nas Freguesias que constituem o Concelho de Azambuja
         <li>União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 291 habitantes </li>
 </ul>
 
-# :memo: Dados por Freguesias
+
+# 📝 Dados por Freguesias
 
 No ficheiro, existe uma coluna designada por <b>ND</b> - Não divulgado. 
 Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos casos activos é que não estão presentes no mapa, por aplicação do critério de não identificação de locais com menos de 3 casos, tal como a DGS indica.
 
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
 
-# :memo: Médias Móveis
+# 📝 Médias Móveis
 <ul>
         <li>MM7_Cact: Média móvel a 7 dias para os Casos Activos</li>
         <li>MM7_CasNov: Média móvel a 7 dias para os Casos Novos</li>
