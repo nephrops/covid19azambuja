@@ -35,16 +35,6 @@ Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos
 
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
 
-📝 Médias Móveis
-<ul>
-        <li>MM7_Cact: Média móvel a 7 dias para os Casos Activos</li>
-        <li>MM7_CasNov: Média móvel a 7 dias para os Casos Novos</li>
-        <li>MM7_CasTot: Média móvel a 7 dias para os Casos Totais</li>
-        <li>MM14_Cact: Média móvel a 14 dias para os Casos Activos</li>
-        <li>MM14_Cnov: Média móvel a 14 dias para os Casos Novos</li>
-        <li>MM14_Ctot: Média móvel a 14 dias para os Casos Totais</li>
- </ul>       
-
                 
 
 :chart_with_upwards_trend: Representações gráficas
