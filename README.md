@@ -44,4 +44,4 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 <li>Freguesias do Concelho de Azambuja (dados em percentagem da população): https://public.flourish.studio/visualisation/4266115/ </li>
 <li>RPubs: https://rpubs.com/nephrops</li>
 </ul>
-
+ou aqui: https://github.com/nephrops/covid19azambuja/tree/main/gr%C3%A1ficos
