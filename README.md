@@ -8,7 +8,7 @@ Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde P�
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
 da Protecção Civil de Azambuja e/ou Autoridade de Saúde Pública - ACES Estuário do Tejo.
 
-Os dados são publicados todos os dias na página da internet da Câmara Municipal de Azambuja: https://www.cm-azambuja.pt/informacoes/noticias/item/3886-informacao-covid-19
+Os dados são publicados diariamente na página da internet da Câmara Municipal de Azambuja: https://www.cm-azambuja.pt/informacoes/noticias/item/3886-informacao-covid-19
 
 📝 Concelho de Azambuja
 
@@ -44,4 +44,4 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 <li>Freguesias do Concelho de Azambuja (dados em percentagem da população): https://public.flourish.studio/visualisation/4266115/ </li>
 <li>RPubs: https://rpubs.com/nephrops</li>
 </ul>
-ou aqui: https://github.com/nephrops/covid19azambuja/tree/main/gr%C3%A1ficos
+ou aqui: https://github.com/nephrops/covid19azambuja/tree/main/gr%C3%A1ficos (pasta sempre actualizada)
