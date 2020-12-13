@@ -39,7 +39,7 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 
 :chart_with_upwards_trend: Representações gráficas
 <ul>
-<li>RPubs: https://rpubs.com/nephrops</li>
-<li>https://github.com/nephrops/covid19azambuja/tree/main/gr%C3%A1ficos (pasta sempre actualizada)</li>
+        <li><a href="https://rpubs.com/nephrops"> RPubs by RStudio</a></li>
+        <li><a href="https://github.com/nephrops/covid19azambuja/tree/main/gr%C3%A1ficos">Gráficos</a></li>
 </ul>
 
