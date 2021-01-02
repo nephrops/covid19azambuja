@@ -276,4 +276,6 @@ Nesta pasta, encontram-se todos os relatórios diários publicados no site da C�
 <li>  267_Azb_20201229</li>
 <li>  268_Azb_20201230</li>
 <li>  269_Azb_20201231</li>
+<li>  270_Azb_20210101</li>
+<li>  269_Azb_20210102</li>
 </ul>
