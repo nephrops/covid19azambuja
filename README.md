@@ -2,7 +2,7 @@
 Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde Pública - ACES Estuário do Tejo
 
 
-📅️ Última actualização: 2 de Janeiro de 2021
+📅️ Última actualização: 3 de Janeiro de 2021
 
 
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
@@ -36,10 +36,3 @@ Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
 
                 
-
-:chart_with_upwards_trend: Representações gráficas
-<ul>
-        <li><a href="https://rpubs.com/nephrops"> RPubs by RStudio</a></li>
-        <li><a href="https://github.com/nephrops/covid19azambuja/tree/main/gr%C3%A1ficos">Gráficos</a></li>
-</ul>
-
