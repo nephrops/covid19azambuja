@@ -2,9 +2,11 @@
 
 Nesta pasta, encontram-se todos os relatórios diários publicados no site da Câmara Municipal de Azambuja.
 
-<i>Nota: A data indicada no nome do ficheiro é a data da sua publicação</i> 
+
 
 <b>NOTA</b>
+
+<i>A data indicada no nome do ficheiro é a data da sua publicação</i> 
 
 :heavy_exclamation_mark: ##_Abz_20200416 :heavy_exclamation_mark: 
 
