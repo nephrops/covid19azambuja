@@ -35,4 +35,14 @@ Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos
 
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
 
-                
+
+<b>Relação entre os nomes das freguesias e a apresentação no ficheiro dados_totais_covid_freg_azambuja.csv </b>
+<ul>
+        <li>Vila Nova da Rainha: VNRainha</li>
+        <li>Azambuja: Azambuja</li>
+        <li>Aveiras de Baixo: AvBaixo</li>
+        <li>Aveiras de Cima: AvCima</li>
+        <li>Vale do Paraíso: VParaiso</li>
+        <li>Alcoentre: Alcoentre</li>
+        <li>União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: UFreg </li>
+</ul>
