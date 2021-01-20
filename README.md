@@ -35,7 +35,7 @@ Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos
 
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
 
-<b>Relação entre os nomes das freguesias e a apresentação no ficheiro dados_totais_covid_freg_azambuja.csv </b>
+<b>Relação entre os nomes das freguesias e a apresentação no ficheiro `dados_totais_covid_freg_azambuja.csv` </b>
 <ul>
         <li>Vila Nova da Rainha: VNRainha</li>
         <li>Azambuja: Azambuja</li>
@@ -47,4 +47,4 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 </ul>
 
 <b>Nota</b>
-No dia 20 de Janeiro de 2021, segundo nota constante no boletim diário, a Subcomissão de Protecção Civil de Acompanhamento à COVID-19 indica o seguinte: <i>"A Autoridade de Saúde Pública informa que devido a alterações e actualizações da plataforma, não será possível apresentar os dados por freguesia."</i> Por este facto no ficheiro dados_totais_covid_freg_azambuja.csv só é apresentado o número total de casos activos no Concelho de Azambuja.
+No dia 20 de Janeiro de 2021, segundo nota constante no boletim diário, a Subcomissão de Protecção Civil de Acompanhamento à COVID-19 indica o seguinte: <i>"A Autoridade de Saúde Pública informa que devido a alterações e actualizações da plataforma, não será possível apresentar os dados por freguesia."</i> Por este facto no ficheiro `dados_totais_covid_freg_azambuja.csv` só é apresentado o número total de casos activos no Concelho de Azambuja.
