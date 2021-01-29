@@ -46,5 +46,5 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
         <li>União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: UFreg </li>
 </ul>
 
-<b>Nota</b>
+<b>Nota:</b>
 Nos dias 20 e 25 de Janeiro de 2021, segundo nota constante no boletim diário, a Subcomissão de Protecção Civil de Acompanhamento à COVID-19 indica o seguinte: <i>"A Autoridade de Saúde Pública informa que devido a alterações e actualizações da plataforma, não será possível apresentar os dados por freguesia."</i> Por este facto no ficheiro `dados_totais_covid_freg_azambuja.csv` só é apresentado o número total de casos activos no Concelho de Azambuja.
