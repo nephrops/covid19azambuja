@@ -2,7 +2,7 @@
 Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde Pública - ACES Estuário do Tejo
 
 
-📅️ Última actualização: 30 de Janeiro de 2021
+📅️ Última actualização: 31 de Janeiro de 2021
 
 
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
@@ -47,4 +47,4 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
 </ul>
 
 <b>Nota:</b>
-Nos dias 20 e 25 de Janeiro de 2021, segundo nota constante no boletim diário, a Subcomissão de Protecção Civil de Acompanhamento à COVID-19 indica o seguinte: <i>"A Autoridade de Saúde Pública informa que devido a alterações e actualizações da plataforma, não será possível apresentar os dados por freguesia."</i> Por este facto no ficheiro `dados_totais_covid_freg_azambuja.csv` só é apresentado o número total de casos activos no Concelho de Azambuja.
+Nos dias 20, 25 e 31 de Janeiro de 2021, segundo nota constante no boletim diário, a Subcomissão de Protecção Civil de Acompanhamento à COVID-19 indica o seguinte: <i>"A Autoridade de Saúde Pública informa que devido a alterações e actualizações da plataforma, não será possível apresentar os dados por freguesia."</i> Por este facto no ficheiro `dados_totais_covid_freg_azambuja.csv` só é apresentado o número total de casos activos no Concelho de Azambuja.
