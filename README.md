@@ -2,7 +2,7 @@
 Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde Pública - ACES Estuário do Tejo
 
 
-📅️ Última actualização: 18 de Fevereiro de 2021
+📅️ Última actualização: 21 de Fevereiro de 2021
 
 
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
