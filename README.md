@@ -60,6 +60,7 @@ Nesta pasta, encontram-se todos os relatórios diários publicados no site da C�
 
 :heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 
 :heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 
+:heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 
 
 <i>Nestes dias, não foram publicados os boletins. </i>
 
