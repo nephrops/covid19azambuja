@@ -2,7 +2,7 @@
 Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde Pública - ACES Estuário do Tejo
 
 
-📅️ Última actualização: 16 de Setembro de 2021
+📅️ Última actualização: 18 de Setembro de 2021
 
 
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
@@ -58,11 +58,14 @@ Nesta pasta, encontram-se todos os relatórios diários publicados no site da C�
 
 <i>A data indicada no nome do ficheiro é a data da sua publicação</i> 
 
-:heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 
-:heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 
-:heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 
+:heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 
 
 <i>Nestes dias, não foram publicados os boletins. </i>
+
+
+Segundo informação prestada pela Câmara Municipal, o boletim de 18/09/2021 <b>"No cumprimento da informação fornecida pela Unidade de Saúde Pública – ACES Estuário do Tejo, informa-se que a análise da situação epidemiológica do Concelho de Azambuja foi atualizada, deixando de estar disponível o número de casos recuperados e os acumulados.
+⚠ O aumento do número de óbitos reflete uma atualização que não ocorria desde março de 2021, sendo que só à data é que foi facultada esta informação.
+O Município de Azambuja esclarece que a informação disponibilizada representa fielmente os dados fornecidos pela Unidade de saúde Pública – ACES Estuário do Tejo."</b>
 
 
 
