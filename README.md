@@ -24,7 +24,7 @@ População residente nas Freguesias que constituem o Concelho de Azambuja
         <li>Aveiras de Cima: 4 762 habitantes</li>
         <li>Vale do Paraíso: 880 habitantes</li>
         <li>Alcoentre: 3 348 habitantes</li>
-        <li>União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 291 habitantes </li>
+        <li>União das Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 291 habitantes </li>
 </ul>
 
 
@@ -43,7 +43,7 @@ Quando só existe uma freguesia sem dados, os dados apresentados são a diferen�
         <li>Aveiras de Cima: AvCima</li>
         <li>Vale do Paraíso: VParaiso</li>
         <li>Alcoentre: Alcoentre</li>
-        <li>União de Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: UFreg </li>
+        <li>União das Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: UFreg </li>
 </ul>
 
 <b>NOTA:</b>
