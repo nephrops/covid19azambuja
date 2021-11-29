@@ -2,7 +2,7 @@
 Dados epidemiológicos disponibilizados diariamente pela Autoridade de Saúde Pública - ACES Estuário do Tejo
 
 
-📅️ <b>Última actualização: 26 de Novembro de 2021</b>
+📅️ <b>Última actualização: 28 de Novembro de 2021</b>
 
 
 Este repositório foi criado para todos os que quiserem fazer estudos/trabalhos com base nos dados disponibilizados diariamente pelos serviços
@@ -58,7 +58,7 @@ Nesta pasta, encontram-se todos os relatórios diários publicados no site da C�
 
 <i>A data indicada no nome do ficheiro é a data da sua publicação</i> 
 
-:heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 
+:heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 602_Azb_20211128 :heavy_exclamation_mark: 
 
 <i>Nestes dias, não foram publicados os boletins. </i>
 
