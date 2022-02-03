@@ -63,7 +63,7 @@ Nesta pasta, encontram-se todos os relatórios diários publicados no site da C�
 
 
 <i>Nestes dias, não foram publicados os boletins: </i>
-:heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 602_Azb_20211128 :heavy_exclamation_mark: 
+:heavy_exclamation_mark: 011_Abz_20200416 :heavy_exclamation_mark: 304_Abz_20210203 :heavy_exclamation_mark: 371_Abz_20210411 :heavy_exclamation_mark: 602_Azb_20211128 :heavy_exclamation_mark: 662_Azb_20220127 :heavy_exclamation_mark: 667_Azb_20220201 :heavy_exclamation_mark: 
 
 Segundo informação prestada pela Câmara Municipal, o boletim de 18/09/2021 <b>"No cumprimento da informação fornecida pela Unidade de Saúde Pública – ACES Estuário do Tejo, informa-se que a análise da situação epidemiológica do Concelho de Azambuja foi atualizada, deixando de estar disponível o número de casos recuperados e os acumulados.
 ⚠ O aumento do número de óbitos reflete uma atualização que não ocorria desde março de 2021, sendo que só à data é que foi facultada esta informação.
