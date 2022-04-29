@@ -35,6 +35,7 @@ Assim sendo, foram criadas duas tabelas:
 </ul>
 Mantendo-se as outras tabelas com os dados diários que foram publicados até 9 de Março de 2022.
 
+
 📝 Dados por Freguesias
 
 No ficheiro, existe uma coluna designada por <b>ND</b> - Não divulgado. 

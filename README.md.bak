@@ -27,6 +27,13 @@ População residente nas Freguesias que constituem o Concelho de Azambuja
         <li>União das Freguesias de Manique do Intendente, Vila Nova de S. Pedro e Maçussa: 2 002 habitantes </li>
 </ul>
 
+Devido à alteração da publicação dos dados por parte da DGS, o Município de Azambuja passou a publicar os dados semanais.
+Assim sendo, foram criadas duas tabelas:
+<ul>
+        <li> Dados Totais Semanais do Município de Azambuja</li>
+		<li> Dados Totais Semanais por Freguesias do Concelho de Azambuja </li>
+</ul>
+Mantendo-se as outras tabelas com os dados diários que foram publicados até 9 de Março de 2022.
 
 📝 Dados por Freguesias
 
