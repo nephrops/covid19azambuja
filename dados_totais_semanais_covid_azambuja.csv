@@ -1,0 +1,5 @@
+,,,,Semanal,,,Por dia,
+data_boletim,start_date,end_date,t (dias),Casos Activos,Óbitos,Recuperados,Casos Activos ,Recuperados
+15-abr-2022,7-abr-2022,14-abr-2022,740,326,102,,47,
+22-abr-2022,15-abr-2022,21-abr-2022,747,261,104,65,37,9
+29-abr-2022,22-abr-2022,28-abr-2022,754,235,107,26,34,4
