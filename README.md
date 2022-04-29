@@ -38,13 +38,14 @@ Mantendo-se as outras tabelas com os dados diários que foram publicados até 9 
 <ul>
 </ul>
 📝 Dados por Freguesias
-
+<ul>
+</ul>
 No ficheiro, existe uma coluna designada por <b>ND</b> - Não divulgado. 
 Quando existe mais do que uma freguesia sem dados, a coluna ND indicará quantos casos activos é que não estão presentes no mapa, por aplicação do critério de não identificação de locais com menos de 3 casos, tal como a DGS indica.
 
 Quando só existe uma freguesia sem dados, os dados apresentados são a diferença entre o somatório das freguesias e o número de casos activos.
 
-<b>Relação entre os nomes das freguesias e a apresentação no ficheiro `dados_totais_covid_freg_azambuja.csv` </b>
+<b>Relação entre os nomes das freguesias e a apresentação no ficheiro `dados_totais_diarios_covid_freg_azambuja.csv` e no `dados_totais_semanais_covid_freg_azambuja.csv`</b>
 <ul>
         <li>Vila Nova da Rainha: VNRainha</li>
         <li>Azambuja: Azambuja</li>
