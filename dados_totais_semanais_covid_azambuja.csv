@@ -1,6 +1,7 @@
-,,,,Semanal,,,Por dia,
-data_boletim,start_date,end_date,t (dias),Casos Activos,Óbitos,Recuperados,Casos Activos ,Recuperados
-15-abr-2022,7-abr-2022,14-abr-2022,740,326,102,,47,
-22-abr-2022,15-abr-2022,21-abr-2022,747,261,104,65,37,9
-29-abr-2022,22-abr-2022,28-abr-2022,754,235,107,26,34,4
-6-mai-2022,29-abr-2022,5-mai-2022,761,266,107,0,38,0
+data_boletim,start_date,end_date,t (dias),Casos Activos,Óbitos,Recuperados
+15-abr-2022,7-abr-2022,14-abr-2022,740,326,102,3517
+22-abr-2022,15-abr-2022,21-abr-2022,747,261,104,3582
+29-abr-2022,22-abr-2022,28-abr-2022,754,235,107,3608
+6-mai-2022,29-abr-2022,5-mai-2022,761,266,107,3639
+13-mai-2022,6-mai-2022,12-mai-2022,768,426,110,3799
+20-mai-2022,13-mai-2022,19-mai-2022,775,645,112,4018
