@@ -62,7 +62,7 @@ Nos dias <b>20, 25 e 31 de Janeiro</b> e <b>1, 4 e 5 de Fevereiro</b> e <b>28 de
 
 Nos dias <b>27 de Janeiro</b> e <b>1, 9, 17, 21, 22 e 27 de Fevereiro</b> e <b>2, 4, 6 e 10 de Março 2022</b> segundo nota constante no boletim diáro, <i>"não é possível apresentar o mapa da situação epidemiológica do Concelho de Azambuja, devido á impossibilidade do envio dos dados por parte da Unidade de Saúde Pública - ACES Estuário do Tejo."</i>
 
-No dia <b>27 de Maio</b> e <b>15 e 29 de Julho de 2022</b> não foi publicado nem o boletim nem uma nota informativa do sucedido. 
+No dia <b>27 de Maio</b>, <b>15 de Julho de 2022</b> e <b>5 de Agosto</b> não foi publicado nem o boletim nem uma nota informativa do sucedido. 
 
 # :memo: Relatórios diários 
 
